@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue">#005dac</color>
+    <color name="blue_news">#427d97</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#468513</color>
+    <color name="red">#A01414</color>
+    <color name="light_grey">#7E7E7E</color>
+    <color name="proptype">#88A2B3</color>
+    <color name="infoprop">#F1F5FB</color>
+    <color name="grey">#494949</color>
+    <color name="grey2">#191919</color>
+    <color name="grey_view">#E6E6E6</color>
+    <color name="grey_et">#F4F4F4</color>
+    <color name="grey_status">#414141</color>
+    <color name="red_danger">#741818</color>
+
+    <color name="text_shadow">#7F000000</color>
+    <color name="color_card_profile">#f1f1f1</color>
+    <color name="color_card_white">#F8F8F8</color>
+
+    <color name="bg_near_white">#E8E9F1</color>
+    <color name="view_near_white">#D7D7DC</color>
+</resources>

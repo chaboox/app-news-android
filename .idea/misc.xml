@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/drawable/back_white_24dp.xml" value="0.23692307692307693" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/drawable/layout_news_shape.xml" value="0.23692307692307693" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout-land/activity_news.xml" value="0.1900352733686067" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout-land/activity_one_news.xml" value="0.2583774250440917" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout-sw320dp-land/activity_news.xml" value="0.1419753086419753" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout-sw320dp-land/activity_one_news.xml" value="0.1746031746031746" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout-sw320dp/activity_news.xml" value="0.1" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout-sw320dp/activity_one_news.xml" value="0.20625" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout-sw600dp-land/activity_news.xml" value="0.10776439089692101" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout-sw600dp-land/activity_one_news.xml" value="0.13253012048192772" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout-sw600dp/activity_news.xml" value="0.19375" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout-sw600dp/activity_one_news.xml" value="0.1546875" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout-sw720dp-land/activity_news.xml" value="0.1961178045515395" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout-sw720dp-land/activity_one_news.xml" value="0.13253012048192772" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout-sw720dp/activity_news.xml" value="0.22890625" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout-sw720dp/activity_one_news.xml" value="0.1546875" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout/activity_finger_print_login.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout/activity_news.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout/activity_one_news.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/adam_d/Documents/DEV MOB/bbc-app-master/app/src/main/res/layout/news_item.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

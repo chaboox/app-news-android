@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "ABC News",
+      "title": "Elon Musk will move Tesla's headquarters to Texas in another blow for California business",
+      "description": "Housing affordability is mentioned by the company's chief executive as a big problem for operating in the Bay Area.",
+      "url": "https://www.abc.net.au/news/2021-10-08/elon-musk-moves-tesla-headquarters-from-california-to-texas/100526098",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/6037f745c2f28d33a9b1de12ba94f721?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=256&width=862&height=485",
+      "publishedAt": "2021-10-08T09:25:14Z",
+      "content": "Tesla chief executive Elon Musk says he is moving his company headquarters from California to Texas, citing housing prices as a major issue for his employees. \r\nKey points:\r\n<ul><li>Telsa will move i… [+3746 chars]"
+    }
+  ]
+}
